@@ -17,7 +17,7 @@ const mensagemElemento = document.getElementById("mensagem");
 function mostrarMensagem() {
   mensagemElemento.textContent = mensagens[index];
 
-  const cores = ["#FF1493", "#FF477E"];
+  const cores = ["#FF1493"];
   mensagemElemento.style.color = cores[Math.floor(Math.random() * cores.length)];
 
   mensagemElemento.style.opacity = 0;
