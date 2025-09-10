@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
     index = (index + 1) % mensagens.length;
 
     // cor aleatória (evita cor = fundo)
-    const coresMsg = ["#ee4fa4ff"];
+    const coresMsg = ["#FF1493"];
     mensagemElemento.style.color = coresMsg[Math.floor(Math.random() * coresMsg.length)];
     mensagemElemento.style.willChange = "transform, opacity";
 
