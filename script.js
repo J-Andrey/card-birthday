@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "Que todos os seus sonhos se realizem!",
     "Te desejo muitos anos de vida!",
     "Você merece tudo de melhor!",
-    "Que Deus abençoe sua vida imensamente!"
-    "Muito obrigado por sua amizade! 🤝"
+    "Muito obrigado por sua amizade! 🤝",
+    "Que Deus abençoe sua vida imensamente! 🙏",
     "Um grande abraço! 🤗"
   ];
 
