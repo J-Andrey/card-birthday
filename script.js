@@ -10,6 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "Te desejo muitos anos de vida!",
     "Você merece tudo de melhor!",
     "Que Deus abençoe sua vida imensamente!"
+    "Muito obrigado por sua amizade! 🤝"
+    "Um grande abraço! 🤗"
   ];
 
   let index = 0;
